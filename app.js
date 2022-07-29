@@ -95,6 +95,7 @@ cuentas.push(C0001,C0002,C0003,C0004);
 
 // podemos hacer lo siguiente una funcion buscar cuenta()
 
+//validacion de cuentas//
 function validarCuenta(){
     
     inicializarCuentas();
