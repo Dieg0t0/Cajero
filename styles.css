@@ -53,7 +53,7 @@ align-items: center;*/
     height: 25px;
     margin-bottom: 10px;
     border-radius: 5px ;
-    background-color: rgb(230, 206, 28);
+    background-color: rgb(175, 224, 236);
     border: none;
 }
 .etiqueta{
@@ -103,7 +103,7 @@ button{
     box-shadow:none;
     outline: none;
     border-width: .3px;
-    background-color: rgb(143, 35, 35);
+    background-color: rgb(233, 173, 10);
 }
 .boton{
     width: 90px;
@@ -127,8 +127,8 @@ button{
     border-radius: 5px;
 }
 .login-box{
-width: 45%; /*poner con em o rem */
-height:70%;/*poner con em o rem */
+width: 45%; 
+height:70%;
 
 margin: auto;
 }
