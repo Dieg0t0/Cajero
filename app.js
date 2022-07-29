@@ -91,7 +91,6 @@ cuentas.push(C0001,C0002,C0003,C0004);
 
 
 }
-// poner un promt de a que cuenta quiere ingresar. e igularlo a cuenta request y passwordrequest
 
 
 // podemos hacer lo siguiente una funcion buscar cuenta()
