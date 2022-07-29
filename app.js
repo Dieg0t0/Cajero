@@ -83,10 +83,10 @@ class Cuenta{
 
 function inicializarCuentas(){
 
-var C0001= new Cuenta("0001","Mali",200,"4567");
-var C0002= new Cuenta("0002","Gera",310,"2333");
-var C0003= new Cuenta("0003","Maui",700,"1234");
-var C0004= new Cuenta("0004","Magda",700,"5122");
+var C0001= new Cuenta("0001","Mali Zuñiga",200,"4567");
+var C0002= new Cuenta("0002","Gera Letelier",310,"2333");
+var C0003= new Cuenta("0003","Maui Maui",700,"1234");
+var C0004= new Cuenta("0004","Magdalena Celis",700,"5122");
 cuentas.push(C0001,C0002,C0003,C0004);
 
 
